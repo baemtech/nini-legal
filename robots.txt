@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://baemtech.github.io/nini-legal/sitemap.xml
